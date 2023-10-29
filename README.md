@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Machine Learning, Deep Neural Network**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmandeepkaurCSE](https://github.com/AmandeepkaurCSE)
+- 👨‍💻 All of my projects are available at [https://github.com/AmandeepkaurCSE?tab=repositories](https://github.com/AmandeepkaurCSE?tab=repositories)
 
 - 💬 Ask me about **Python, MySQL, Power Bi and Data Analysis**
 
