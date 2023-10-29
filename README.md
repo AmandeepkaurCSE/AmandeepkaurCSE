@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">Passionate about deriving insights from data, specializing in EDA, visualization, predictive modeling, and machine learning. Eager to embrace new tools and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandeepkaurcse&label=Profile%20views&color=0e75b6&style=flat" alt="amandeepkaurcse" /> </p>
+
 - 🔭 I’m currently working on **Face Detection Project**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Neural Network**
